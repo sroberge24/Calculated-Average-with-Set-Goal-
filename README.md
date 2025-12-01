@@ -1,2 +1,3 @@
 # Calculated-Average-with-Set-Goal-
 Python program that helps users to track their weekly steps. Users are able to set a daily goal for steps and then track each day for seven days. The program then calculates the average steps and reports if the user successfully met their set goal or not. This program the use of global variables, loops, and user input. 
+This code features repetition with while loops, and demonstrates other key programming concepts that can be used for functional programs that provide personlized feedback. The script uses mathematical calculations aswell as user input handling combing the techniquest to provide a interactive yet useful program. 
